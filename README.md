@@ -5,7 +5,24 @@
 
 ## HTML CSS Assignment
 
-[Repo](https://github.com/ankitdevelops/fsjs-html_css)
+### [Repo](https://github.com/ankitdevelops/fsjs-html_css)
+
+- [Project 01](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2001)
+- [Project 02](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2002)
+- [Project 03](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2003 )
+- [Project 04](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2004)
+- [Project 05](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2005)
+- [Project 06](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2006)
+- [Project 07 - vscode](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2007_vscode_clone_tailwind)
+- [Project 08 Credit Card Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2008_Credit%20Card%20Landing%20Page)
+- [Project 09 Hosting Site Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2009_Hosting%20Site%20Landing%20Page)
+- [Project 10 Gaming Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2010_Gaming%20Landing%20Page)
+- [Project 11 Real Estate Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2011_Real%20Estate%20Landing%20Page)
+- [Project 12 Beats Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2012_Beats%20Landing%20Page)\
+- [Project 13 Data Analytics Landing Page](https://github.com/ankitdevelops/fsjs-html_css/tree/main/Project%2013_Data%20Analytics%20Landing%20Page)
+
+
+### [Live Preview](https://fsjs-assignment.netlify.app/)
 
 
 ## JavaScript Assignment
