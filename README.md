@@ -26,7 +26,13 @@
 
 
 ## JavaScript Assignment
-[Repo](https://github.com/ankitdevelops/fsjs-javascript)
+### [Repo](https://github.com/ankitdevelops/fsjs-javascript)
+
+- 08 Jan 30 Questions [Github](https://github.com/ankitdevelops/fsjs-javascript/tree/main/assignment-js/08-Jan)
+- 21 Jan Random Circle [Github](https://github.com/ankitdevelops/fsjs-javascript/tree/main/assignment-js/21-Jan) [Live](https://transcendent-biscotti-85085d.netlify.app/assignment-js/21-jan/)
+- 28 Jan All Dom Assignment [Github](https://github.com/ankitdevelops/fsjs-javascript/tree/main/assignment-js/28-Jan/DOM%20Assignments)
+
+### [Live Site](https://transcendent-biscotti-85085d.netlify.app/)
 
 
 ## React Assignments
